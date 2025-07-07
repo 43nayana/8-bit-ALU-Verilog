@@ -9,7 +9,7 @@ A simple 8-bit Arithmetic Logic Unit (ALU) implemented using Verilog HDL. This p
 - Tested using a Verilog testbench
 
 ## File Structure
-- `ALU 8bit.v`: ALU module
+- `ALU_8bit.v`: ALU module
 - `ALU_tb.v`: Testbench file
 - `waveform.png`: Simulation result
 
