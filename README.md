@@ -20,7 +20,7 @@ A simple 8-bit Arithmetic Logic Unit (ALU) implemented using Verilog HDL. This p
 4. Run Behavioral Simulation
 
 ## Output
-![ALU Simulation Waveform](waveform.png)
+![ALU Simulation Waveform](Waveform.png)
 
 ## Author
 Nayana Mukherjee
